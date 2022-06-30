@@ -1,0 +1,8 @@
+{
+  "name": "Targon ES",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "05d4fcf1"
+}
